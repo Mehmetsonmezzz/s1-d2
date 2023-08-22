@@ -19,7 +19,12 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
-
+let surucuYasi=19;
+if(surucuYasi>17){
+  console.log(true);
+}else{
+  console.log(false);
+}
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
 
@@ -31,7 +36,14 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
+let degisken1= 16;
+let degisken2= 51;
 
+if (degisken1<=degisken2){
+ degisken1=57
+}else{
+  console.log(degisken1)
+}
 /*
 Görev 1c - String bir değeri Number'a dönüştürün (puanlamaya dahil değildir)
 
